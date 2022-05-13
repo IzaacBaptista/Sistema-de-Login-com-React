@@ -1,6 +1,6 @@
 ### Sistema de Login com React
 
-Sistema de Login com React (ContextAPI, Router, Token e Persistência)
+Sistema de Login com React (ContextAPI, Router, Token e Persistência) e Firebase
 
 ### nvm install --lts
 
