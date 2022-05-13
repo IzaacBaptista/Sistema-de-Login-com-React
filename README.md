@@ -19,3 +19,5 @@ Sistema de Login com React (ContextAPI, Router, Token e Persistência) e Firebas
 ### npm run start dentro de "my-app" para rodar o projeto
 
 ### expo start:web para iniciar a aplicação
+
+![image](https://i.ibb.co/zN1jJGv/login.png)
